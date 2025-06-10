@@ -11,7 +11,7 @@
 
   <h3>Find Me Elsewhere 🌐</h3>
   <p>
-    <a href="https://johnmicahmiguel.github.io/" target="_blank" rel="noopener noreferrer">Portfolio 🌍</a> | 
+    <a href="https://www.johnmicahmiguel.com/" target="_blank" rel="noopener noreferrer">Portfolio 🌍</a> | 
     <a href="https://www.linkedin.com/in/jmmiguel" target="_blank" rel="noopener noreferrer">LinkedIn 💼</a>
   </p>
 </div>
